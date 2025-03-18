@@ -1,6 +1,6 @@
 //Formas de crear un arreglo
 
-let numeros = [10, 20, 30, 40, 50]
+/*let numeros = [10, 20, 30, 40, 50]
 console.log(numeros)
 
 //let planetas = new Array("Marte", "Jupiter", "Saturno")
@@ -51,4 +51,4 @@ let matriz = [
     ["Valeria", 20]
 ]
 
-console.log("Edad de Valeria:", matriz[2][1])
+console.log("Edad de Valeria:", matriz[2][1])*/
